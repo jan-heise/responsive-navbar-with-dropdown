@@ -3,7 +3,10 @@
 
 A responsive navbar from [TailwindUI](https://www.tailwindui.com/) with Dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Feather Icons](https://feathericons.com/) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
 
-To get started:
+## Preview
+https://codepen.io/janheise/full/JjdwXyz
+
+## To get started:
 
 1. Clone the repository:
 
