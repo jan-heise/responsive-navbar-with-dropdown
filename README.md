@@ -4,7 +4,7 @@
 A responsive navbar from [TailwindUI](https://www.tailwindui.com/) with Dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Feather Icons](https://feathericons.com/) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
 
 ## Preview
-https://wizardly-hermann-82051e.netlify.com/
+https://responsive-tailwindui-nav-with-dropdown.netlify.com/
 
 ## Structure
 
