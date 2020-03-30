@@ -9,9 +9,6 @@ A responsive navbar from [TailwindUI](https://www.tailwindui.com/) with Dropdown
 ```dark.html``` contains only the dark navbar with light dropdowns
 ```dark_full.html``` contains only the dark navbar with dark dropdowns
 
-## Preview
-https://codepen.io/janheise/full/JjdwXyz
-
 ## To get started:
 
 1. Clone the repository:
