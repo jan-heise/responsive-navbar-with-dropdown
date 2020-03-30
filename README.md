@@ -3,6 +3,12 @@
 
 A responsive navbar from [TailwindUI](https://www.tailwindui.com/) with Dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Feather Icons](https://feathericons.com/) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
 
+## Structure
+
+```index.html``` contains all styles and a controlpanel at the bottom
+```dark.html``` contains only the dark navbar with light dropdowns
+```dark_full.html``` contains only the dark navbar with dark dropdowns
+
 ## Preview
 https://codepen.io/janheise/full/JjdwXyz
 
