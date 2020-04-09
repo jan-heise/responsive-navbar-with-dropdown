@@ -1,8 +1,11 @@
 module.exports = {
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        'dark-mode': {'raw': '(prefers-color-scheme: dark)'},
+      },
+    },
   },
   variants: {},
-  plugins: [
-  ],
+  plugins: [],
 }
