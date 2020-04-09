@@ -1,22 +1,22 @@
 # Responsive Navbar with Dropdown
 #### Based on the TailwindCSS Playground
 
-A responsive navbar with Dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Heroicons](https://github.com/refactoringui/heroicons) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
+A responsive navbar with dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Heroicons](https://github.com/refactoringui/heroicons) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
 
 ## Changelog
 09. April 2020 - Completly redone the Navbar to remove tailwindUI component and to remove duplicate divs
 
 ## Preview
-https://responsive-tailwindui-nav-with-dropdown.netlify.com/
+https://responsive-navbar-with-dropdown.netlify.com/
 
 ## To get started:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Cricksu/responsive-nav-with-dropdown responsive-nav-with-dropdown
+    git clone https://github.com/jan-heise/responsive-navbar-with-dropdown responsive-navbar-with-dropdown
 
-    cd responsive-nav-with-dropdown
+    cd responsive-navbar-with-dropdown
     ```
 
 Instructions from the official [TailwindCSS Playground Repo](https://github.com/tailwindcss/playground)
