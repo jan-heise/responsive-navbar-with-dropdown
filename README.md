@@ -1,18 +1,13 @@
 # Responsive Navbar with Dropdown
-#### Based on free sample components of TailwindUI and the TailwindCSS Playground
+#### Based on the TailwindCSS Playground
 
-A responsive navbar from [TailwindUI](https://www.tailwindui.com/) with Dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Feather Icons](https://feathericons.com/) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
+A responsive navbar with Dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Heroicons](https://github.com/refactoringui/heroicons) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
+
+## Changelog
+09. April 2020 - Completly redone the Navbar to remove tailwindUI component and to remove duplicate divs
 
 ## Preview
 https://responsive-tailwindui-nav-with-dropdown.netlify.com/
-
-## Structure
-
-```public/index.html``` contains all styles and a controlpanel at the bottom
-
-```public/dark.html``` contains only the dark navbar with light dropdowns
-
-```public/dark_full.html``` contains only the dark navbar with dark dropdowns
 
 ## To get started:
 
