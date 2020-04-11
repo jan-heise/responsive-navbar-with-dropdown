@@ -80,3 +80,8 @@ yarn run production
 ```
 
 After that's done, check out `./public/build/tailwind.css` to see the optimized output.
+
+## Build with
+- [TailwindCSS](https://tailwindcss.com) and the [Tailwind Playground](https://github.com/tailwindcss/playground)
+- [AlpineJS](https://github.com/alpinejs/alpine)
+- [Heroicons](https://github.com/refactoringui/heroicons)
