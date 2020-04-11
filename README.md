@@ -3,6 +3,13 @@
 
 A responsive navbar with dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Heroicons](https://github.com/refactoringui/heroicons) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
 
+The Tailwind Config got extended by the following line to include system colorscheme support
+```
+screens: {
+    'dark-mode': {'raw': '(prefers-color-scheme: dark)'},
+},
+```
+
 ## Changelog
 11th of April 2020 - Added Sidebar (./public/sidebar.html) and moved Navbar to seperate file (.public/navbar.html)
 
