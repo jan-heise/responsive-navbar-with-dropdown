@@ -4,7 +4,15 @@
 A responsive navbar with dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Heroicons](https://github.com/refactoringui/heroicons) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
 
 ## Changelog
-09. April 2020 - Completly redone the Navbar to remove tailwindUI component and to remove duplicate divs
+11th of April 2020 - Added Sidebar (./public/sidebar.html) and moved Navbar to seperate file (.public/navbar.html)
+
+09th of April 2020 - Completly redone the Navbar to remove tailwindUI component and to remove duplicate divs
+
+## Structure
+
+Navbar: [./public/navbar.html](https://github.com/jan-heise/responsive-navbar-with-dropdown/blob/master/public/navbar.html)
+
+Sidebar: [./public/sidebar.html](https://github.com/jan-heise/responsive-navbar-with-dropdown/blob/master/public/sidebar.html)
 
 ## Preview
 https://responsive-navbar-with-dropdown.netlify.com/
