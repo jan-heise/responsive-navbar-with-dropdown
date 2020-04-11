@@ -10,6 +10,11 @@ screens: {
 },
 ```
 
+## Features
+- Fully Responsive
+- Prefers-Color-Scheme Support
+- Side- and Topbar
+
 ## Changelog
 11th of April 2020 - Added Sidebar (./public/sidebar.html) and moved Navbar to seperate file (.public/navbar.html)
 
