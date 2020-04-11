@@ -3,8 +3,28 @@
 
 A responsive navbar with dropdowns using [AlpineJS](https://github.com/alpinejs/alpine) and [Heroicons](https://github.com/refactoringui/heroicons) build in the [TailwindCSS Playground](https://github.com/tailwindcss/playground)
 
+The Tailwind Config got extended by the following line to include system colorscheme support
+```
+screens: {
+    'dark-mode': {'raw': '(prefers-color-scheme: dark)'},
+},
+```
+
+## Features
+- Fully Responsive
+- Prefers-Color-Scheme Support
+- Side- and Topbar
+
 ## Changelog
-09. April 2020 - Completly redone the Navbar to remove tailwindUI component and to remove duplicate divs
+11th of April 2020 - Added Sidebar (./public/sidebar.html) and moved Navbar to seperate file (.public/navbar.html)
+
+09th of April 2020 - Completly redone the Navbar to remove tailwindUI component and to remove duplicate divs
+
+## Structure
+
+Navbar: [./public/navbar.html](https://github.com/jan-heise/responsive-navbar-with-dropdown/blob/master/public/navbar.html)
+
+Sidebar: [./public/sidebar.html](https://github.com/jan-heise/responsive-navbar-with-dropdown/blob/master/public/sidebar.html)
 
 ## Preview
 https://responsive-navbar-with-dropdown.netlify.com/
@@ -60,3 +80,8 @@ yarn run production
 ```
 
 After that's done, check out `./public/build/tailwind.css` to see the optimized output.
+
+## Build with
+- [TailwindCSS](https://tailwindcss.com) and the [Tailwind Playground](https://github.com/tailwindcss/playground)
+- [AlpineJS](https://github.com/alpinejs/alpine)
+- [Heroicons](https://github.com/refactoringui/heroicons)
