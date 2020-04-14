@@ -7,11 +7,11 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="stylesheet" href="/build/tailwind.css">
   <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
-  <title>Flowtrail UI Navbar</title>
+  <title>Flowtrail UI Navigation Components</title>
 </head>
 <body class="antialiased bg-gray-100 dark-mode:bg-gray-900">
-    <div class="relative w-screen h-screen" x-data="{ open: true }">
-        <button @click="open = !open" class="absolute bottom-0 right-0 px-4 py-2 m-4 text-gray-900 bg-white rounded-full shadow-2xl">
+    <div class="flex flex-col-reverse justify-between w-screen h-screen sm:block sm:relative" x-data="{ open: true }">
+        <button @click="open = !open" class="block w-full px-4 py-2 text-gray-900 bg-white shadow-2xl sm:mr-4 sm:rounded-full sm:mb-4 sm:w-56 sm:right-0 sm:bottom-0 sm:absolute focus:outline-none focus:shadow-outline">
             <span x-show="open == true">Switch to Sidebar</span>
             <span x-show="open == false">Switch to Navbar</span>
         </button>
