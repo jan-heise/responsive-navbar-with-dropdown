@@ -11,7 +11,7 @@ screens: {
 ```
 
 This enables the ```dark-mode``` variant which you can use to declare classes for the dark mode of your browser / os. 
-It is possible to chain variants for example dark-mode and hover:
+It is possible to chain variants for example ```dark-mode``` and ```hover```:
 
 ```
 <div class="block h-64 w-64 bg-gray-100 dark-mode:bg-gray-900 hover:bg-gray-200 dark-mode:hover:bg-gray-800"></div>
